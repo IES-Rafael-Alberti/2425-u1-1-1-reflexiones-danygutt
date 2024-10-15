@@ -6,10 +6,19 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 [Descripción de la práctica](https://revilofe.github.io/section3/u01/practica/EDES-U1.-Practica010/)
 
+# Índice
+- [Práctica 1: Introducción al desarrollo. Reflexiones](#práctica-1-introducción-al-desarrollo-reflexiones)
+  - [Identificación de la Actividad](#identificación-de-la-actividad)
+  - [Título de la Actividad](#título-de-la-actividad)
+  - [P 1.10: Reflexión y discusión sobre los resultados](#p-110-reflexión-y-discusión-sobre-los-resultados)
+    - [1. Relación software y hardware](#1-relación-software-y-hardware)
+    - [2. Del código fuente al ejecutable](#2-del-código-fuente-al-ejecutable)
+    - [3. Generación de código intermedio](#3-generación-de-código-intermedio)
+    - [4. Lenguajes de programación](#4-lenguajes-de-programación)
+    - [5. Herramientas de desarrollo](#5-herramientas-de-desarrollo)
 
+- [Referencias y Fuentes](#referencias-y-fuentes)
 ---
-
-# Título de la Actividad
 
 ## Identificación de la Actividad
 - **ID de la Actividad:** P1.1
@@ -23,7 +32,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
   - **Correo electrónico:** dvilgut2404@g.educaand.es
   - **Iniciales del Alumno:** DVG
 
-## Descripción de la Actividad
+# Título de la Actividad
 
 ## P 1.10: Reflexión y discusión sobre los resultados
 
@@ -187,56 +196,7 @@ Una herramienta que me ahorre tiempo a la hora de errores ortograficos, o por ej
 No sabia que me iba a encontrar, me sorprendio las diferencias que habian entre ambas mas haya del diseño. Las funciones que ofrecian cada una y lo completa que es la de VS code.
 
 
-## Instrucciones de Compilación y Ejecución
-1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
-
-2. **Pasos para Compilar el Código:**
-   ```bash
-   [Comando para compilar el código]
-   ```
-
-3. **Pasos para Ejecutar el Código:**
-   ```bash
-   [Comando para ejecutar la aplicación]
-   ```
-
-4. **Ejecución de Pruebas:**
-   ```bash
-   [Comandos para ejecutar pruebas, si las hubiera]
-   ```
-
-## Desarrollo de la Actividad
-### Descripción del Desarrollo
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
-
-### Código Fuente
-[Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
-
-### Ejemplos de Ejecución
-- **Entrada 1:** Descripción de la entrada y valor de prueba.
-- **Salida Esperada 1:** Explicación de la salida esperada y el resultado de la prueba.
-
-### Resultados de Pruebas
-[Aquí se detallará cómo se ha verificado la funcionalidad del código, incluyendo resultados de pruebas automatizadas o manuales, en caso de que las haya.]
-
-## Documentación Adicional
-- **Manual de Usuario:** [Enlace a la documentación del usuario, si existe]
-- **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
-
-## Conclusiones
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
-
 ## Referencias y Fuentes
+[Enlace temari UND1](https://revilofe.github.io/section3/u01/) 
+he usado chatgpt para orientarme en algunas preguntas o temas que no tenia claros. NO HAGO COPYPAST, me resulta una herramienta util para buscar informacion que no conozca o que me explique temas que no entiendo para asi poder realizar las actividades sabiendo lo que estoy haciendo.
 [Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
-
-### Notas Adicionales:
-1. **Nombres de Archivos y Repositorios:**
-   - Asegúrate de que el nombre del archivo o repositorio siga la estructura definida: `XXX-idActividad-Iniciales`.
-2. **Permisos:**
-   - Verifica que el profesor tenga los permisos necesarios para acceder al repositorio o documento.
-3. **Formato:**
-   - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
-4. **Compilación y Ejecución:**
-   - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
