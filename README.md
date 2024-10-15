@@ -40,7 +40,7 @@ Responder a unas preguntas sobre la Unidad 1 (herramientas, lenguajes, traductor
 
 #### 1.1. Primera parte
 
-**1.1.1. ¿Cómo se ejecuta el código en el procesador?**  
+**1.1.1. ¿Cómo se ejecuta el código en el procesador?**  +
 El procesador ejecuta las instrucciones que están almacenadas en RAM, recuperándolas de una a una y realizándolas rápidamente.
 
 **1.1.2. ¿Qué hace la memoria RAM con la información del botón o el LED?** 
@@ -68,7 +68,7 @@ La simulación refleja interacciones básicas en un ordenador real, donde el pro
 **2.1. ¿Cómo se diferencia el código fuente del código objeto y del ejecutable?** 
 El código fuente son las instrucciones legibles por humanos, no ejecutables directamente(lenguaje programación). El código objeto es la versión intermedia más cercana al lenguaje de máquina pero aún no ejecutable. Y el código ejecutable versión final que el ordenador puede ejecutar directamente.  
 
-**2.2. ¿Por qué el ordenador no puede entender el código fuente directamente?
+**2.2. ¿Por qué el ordenador no puede entender el código fuente directamente?**
 El ordenador no puede entender el código fuente porque solo entiende lenguaje de máquina (ceros y unos).
 
 **2.3. ¿Por qué es importante el paso de enlazado en la creación de programas?**  
@@ -90,7 +90,7 @@ Ofrece:
 Potabilidad: funciona en diferentes sistemas operativos sin recopilación. 
 Seguridad: las máquinas virtuales controlan el acceso al sistema. Optimizan: permite técnicas como compilación Just-In-Time (JIT) para mejorar el rendimiento.
 
-**3.4. ¿Además de java, qué otros lenguajes usan máquinas virtuales?**
+**3.4. ¿Además de java, qué otros lenguajes usan máquinas virtuales?**  
 Kolin, C#, Scala, Groovy, F#.
 
 ### 4. Lenguajes de programación
@@ -198,7 +198,7 @@ Creo que tiene un gran impacto, ya que si no usamos las mejores herramientas en 
 Una herramienta que me ahorre tiempo a la hora de errores ortograficos, o por ejemplo me ayude a organizar como voy realizando el trabajo por que parte voy y que voy necesitando.
 
 **5.3.3. ¿Cómo cambió tu percepción de estas herramientas después de haberlas probado y evaluado?**
-No sabia que me iba a encontrar, me sorprendio las diferencias que habian entre ambas mas haya del diseño. Las funciones que ofrecian cada una y lo completa que es la de VS code.
+ No sabia que me iba a encontrar, me sorprendio las diferencias que habian entre ambas mas haya del diseño. Las funciones que ofrecian cada una y lo completa que es la de VS code.
 
 
 ## Referencias y Fuentes
