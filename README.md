@@ -24,7 +24,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 - **Módulo:** `EDES`
 - **Unidad de Trabajo:** Und 1
 - **Fecha de Creación:** lunes, 7 de octubre de 2024, 00:00
-- **Fecha de Entrega:** [Fecha de entrega]
+- **Fecha de Entrega:** martes, 15 de octubre de 2024, 20:52
 - **Fecha de Cierre:** domingo, 20 de octubre de 2024, 23:59
 - **Alumno:** 
   - **Nombre y Apellidos:** Daniel Villar Guttenberger
